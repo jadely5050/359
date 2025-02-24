@@ -1,2 +1,1 @@
-# test
-test
+# smart KU Country Club Course Guide
